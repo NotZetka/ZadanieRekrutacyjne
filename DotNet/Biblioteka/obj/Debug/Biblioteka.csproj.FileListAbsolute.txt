@@ -1,0 +1,14 @@
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Kuba\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Kuba\Desktop\Zadanie Rekrutacyjne\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb

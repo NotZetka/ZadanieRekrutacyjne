@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB0635A-BA63-4867-8322-A60E4641D541}|Biblioteka\\Biblioteka.csproj|c:\\users\\kuba\\desktop\\zadanie rekrutacyjne\\biblioteka\\biblioteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB0635A-BA63-4867-8322-A60E4641D541}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB0635A-BA63-4867-8322-A60E4641D541}|Biblioteka\\Biblioteka.csproj|C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\biblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB0635A-BA63-4867-8322-A60E4641D541}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\Biblioteka\\Book.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Book.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\Biblioteka\\Book.cs",
+              "RelativeToolTip": "Biblioteka\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:00:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\Biblioteka\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Desktop\\Zadanie Rekrutacyjne\\Biblioteka\\Biblioteka\\Program.cs",
+              "RelativeToolTip": "Biblioteka\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwIMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:59:39.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
